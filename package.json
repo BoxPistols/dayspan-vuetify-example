@@ -10,6 +10,7 @@
   "dependencies": {
     "babel-loader": "^7.1.5",
     "dayspan-vuetify": "0.2.3",
+    "moment": "^2.24.0",
     "vue": "2.5.16",
     "vuetify": "1.1.9"
   },
